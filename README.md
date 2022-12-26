@@ -1,4 +1,4 @@
-# My c=Code Playground
+# My Code Playground
 
 Any interesting learnable feature in any language.
 
